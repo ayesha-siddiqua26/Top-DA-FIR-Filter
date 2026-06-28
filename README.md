@@ -79,43 +79,8 @@ The complete design is implemented using **Verilog HDL** and verified through si
                  +----------------------+
 ```
 
----
 
-# 📂 Project Structure
 
-```
-├── RTL/
-│   ├── Top_DA_FIR.v
-│   ├── AKM.v
-│   ├── VLCSA.v
-│   ├── LUT.v
-│   └── ...
-│
-├── Testbench/
-│   ├── tb_Top_DA_FIR.sv
-│   └── ...
-│
-├── Simulation/
-│   ├── Waveforms
-│   └── Reports
-│
-├── Synthesis/
-│   ├── Area Reports
-│   ├── Timing Reports
-│   └── Power Reports
-│
-├── Images/
-│   ├── Architecture.png
-│   ├── RTL.png
-│   └── Waveform.png
-│
-├── ePBL_Internship_B01_Project_Report.pdf
-└── README.md
-```
-
-*(Modify the folder names according to your repository.)*
-
----
 
 # ⚙️ Technologies Used
 
