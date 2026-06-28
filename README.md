@@ -109,7 +109,7 @@ The complete design is implemented using **Verilog HDL** and verified through si
 │   ├── RTL.png
 │   └── Waveform.png
 │
-├── Report.pdf
+├── ePBL_Internship_B01_Project_Report.pdf
 └── README.md
 ```
 
